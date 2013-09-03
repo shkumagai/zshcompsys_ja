@@ -357,7 +357,7 @@ compinitが実行されるとき、compinitはfpath/FPATHを介してアクセ�
     compdef '_files -g "*.log"' '-redirect-,2>,-default-'
 
 は、特定のハンドラが定義されていない任意のコマンドに対して、'2> <TAB>' の\
-後に '*.log' に一致するファイル名を補完します。
+後に '\*.log' に一致するファイル名を補完します。
 
 また::
 
@@ -370,7 +370,7 @@ compinitが実行されるとき、compinitはfpath/FPATHを介してアクセ�
 
     zstyle ':completion:*:*:-redirect-,2>,*:*' file-patterns '*.log'
 
-は '2> <TAB>' の後に '*.log' にマッチするファイル名を補完させるための、\
+は '2> <TAB>' の後に '\*.log' にマッチするファイル名を補完させるための、\
 もう一つの方法です。
 
 
