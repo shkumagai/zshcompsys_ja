@@ -1279,8 +1279,8 @@ and do not refer to a  type of match.
 
 .. _bindable commands:
 
-バインド可能なコマンド
-======================
+バインド可能コマンド
+====================
 
 :_bash_completions:
     hoge
