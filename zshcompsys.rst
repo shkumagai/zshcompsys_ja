@@ -884,334 +884,334 @@ zsh-options
 標準スタイル
 ------------
 
-:accept-exact:
+accept-exact
     hoge
 
-:accept-exact-dirs:
+accept-exact-dirs
     hoge
 
-:add-space:
+add-space
     hoge
 
-:ambiguous:
+ambiguous
     hoge
 
-:assign-list:
+assign-list
     hoge
 
-:auto-description:
+auto-description
     hoge
 
-:avoid-completer:
+avoid-completer
     hoge
 
-:cache-path:
+cache-path
     hoge
 
-:cache-policy:
+cache-policy
     hoge
 
-:call-command:
+call-command
     hoge
 
-:command:
+command
     hoge
 
-:command-path:
+command-path
     hoge
 
-:commands:
+commands
     hoge
 
-:complete:
+complete
     hoge
 
-:complete-options:
+complete-options
     hoge
 
-:completer:
+completer
     hoge
 
-:condition:
+condition
     hoge
 
-:delimiters:
+delimiters
     hoge
 
-:disabled:
+disabled
     hoge
 
-:domains:
+domains
     hoge
 
-:environ:
+environ
     hoge
 
-:expand:
+expand
     hoge
 
-:fake:
+fake
     hoge
 
-:fake-always:
+fake-always
     hoge
 
-:fake-files:
+fake-files
     hoge
 
-:fake-parameters:
+fake-parameters
     hoge
 
-:fake-list:
+fake-list
     hoge
 
-:file-patterns:
+file-patterns
     hoge
 
-:file-sort:
+file-sort
     hoge
 
-:filter:
+filter
     hoge
 
-:force-list:
+force-list
     hoge
 
-:format:
+format
     hoge
 
-:glob:
+glob
     hoge
 
-:global:
+global
     hoge
 
-:group-name:
+group-name
     hoge
 
-:group-order:
+group-order
     hoge
 
-:groups:
+groups
     hoge
 
-:hidden:
+hidden
     hoge
 
-:hosts:
+hosts
     hoge
 
-:hosts-ports:
+hosts-ports
     hoge
 
-:ignore-line:
+ignore-line
     hoge
 
-:ignore-parents:
+ignore-parents
     hoge
 
-:extra-verbose:
+extra-verbose
     hoge
 
-:ignore-patterns:
+ignore-patterns
     hoge
 
-:insert:
+insert
     hoge
 
-:insert-ids:
+insert-ids
     hoge
 
-:insert-tab:
+insert-tab
     hoge
 
-:insert-unambiguous:
+insert-unambiguous
     hoge
 
-:keep-prefix:
+keep-prefix
     hoge
 
-:last-prompt:
+last-prompt
     hoge
 
-:known-hosts-files:
+known-hosts-files
     hoge
 
-:list:
+list
     hoge
 
-:list-colors:
+list-colors
     hoge
 
-:list-dirs-first:
+list-dirs-first
     hoge
 
-:list-groups:
+list-groups
     hoge
 
-:list-packed:
+list-packed
     hoge
 
-:list-prompt:
+list-prompt
     hoge
 
-:list-rows-first:
+list-rows-first
     hoge
 
-:list-suffixes:
+list-suffixes
     hoge
 
-:list-separator:
+list-separator
     hoge
 
-:local:
+local
     hoge
 
-:mail-directory:
+mail-directory
     hoge
 
-:match-original:
+match-original
     hoge
 
-:matcher:
+matcher
     hoge
 
-:matcher-list:
+matcher-list
     hoge
 
-:max-errors:
+max-errors
     hoge
 
-:max-matches-width:
+max-matches-width
     hoge
 
-:menu:
+menu
     hoge
 
-:muttrc:
+muttrc
     hoge
 
-:numbers:
+numbers
     hoge
 
-:old-list:
+old-list
     hoge
 
-:old-matches:
+old-matches
     hoge
 
-:old-menu:
+old-menu
     hoge
 
-:original:
+original
     hoge
 
-:packageset:
+packageset
     hoge
 
-:path:
+path
     hoge
 
-:path-completion:
+path-completion
     hoge
 
-:pine-directory:
+pine-directory
     hoge
 
-:ports:
+ports
     hoge
 
-:prefix-hidden:
+prefix-hidden
     hoge
 
-:prefix-needed:
+prefix-needed
     hoge
 
-:preserve-prefix:
+preserve-prefix
     hoge
 
-:range:
+range
     hoge
 
-:regular:
+regular
     hoge
 
-:rehash:
+rehash
     hoge
 
-:remote-access:
+remote-access
     hoge
 
-:remote-all-dups:
+remote-all-dups
     hoge
 
-:select-prompt:
+select-prompt
     hoge
 
-:select-scroll:
+select-scroll
     hoge
 
-:separate-sections:
+separate-sections
     hoge
 
-:show-completer:
+show-completer
     hoge
 
-:single-ifnored:
+single-ifnored
     hoge
 
-:sort:
+sort
     hoge
 
-:special-dirs:
+special-dirs
     hoge
 
-:squeeze-slashes:
+squeeze-slashes
     hoge
 
-:stop:
+stop
     hoge
 
-:strip-comments:
+strip-comments
     hoge
 
-:subst-globs-only:
+subst-globs-only
     hoge
 
-:substitute:
+substitute
     hoge
 
-:suffix:
+suffix
     hoge
 
-:tag-order:
+tag-order
     hoge
 
-:urls:
+urls
     hoge
 
-:use-cache:
+use-cache
     hoge
 
-:use-compctl:
+use-compctl
     hoge
 
-:use-ip:
+use-ip
     hoge
 
-:users:
+users
     hoge
 
-:users-hosts:
+users-hosts
     hoge
 
-:users-hosts-ports:
+users-hosts-ports
     hoge
 
-:verbose:
+verbose
     hoge
 
-:word:
+word
     hoge
 
 
@@ -1220,46 +1220,46 @@ zsh-options
 操作関数
 ========
 
-:_all_matches:
+_all_matches
     hoge
 
-:_appriximate:
+_appriximate
     hoge
 
-:_complete:
+_complete
     hoge
 
-:_correct:
+_correct
     hoge
 
-:_expand:
+_expand
     hoge
 
-:_expand_alias:
+_expand_alias
     hoge
 
-:_history:
+_history
     hgoe
 
-:_ignored:
+_ignored
     hoge
 
-:_list:
+_list
     hoge
 
-:_match:
+_match
     hoge
 
-:_menu:
+_menu
     hoge
 
-:_oldlist:
+_oldlist
     hoge
 
-:_prefix:
+_prefix
     hoge
 
-:_user_expand:
+_user_expand
     hoge
 
     :$hash:
@@ -1274,46 +1274,46 @@ zsh-options
 バインド可能コマンド
 ====================
 
-:_bash_completions:
+_bash_completions
     hoge
 
-:_correct_filename (^XC):
+_correct_filename (^XC)
     hoge
 
-:_correct_word (^Xc):
+_correct_word (^Xc)
     hoge
 
-:_expand_alias (^Xa):
+_expand_alias (^Xa)
     hoge
 
-:_expand_word (^Xe):
+_expand_word (^Xe)
     hoge
 
-:_generic:
+_generic
     hoge
 
-:_history_complete_word (\\e/):
+_history_complete_word (\\e/)
     hoge
 
-:_most_recent_file (^Xm):
+_most_recent_file (^Xm)
     hoge
 
-:_next_tags (^Xn):
+_next_tags (^Xn)
     hoge
 
-:_read_comp (^X^R):
+_read_comp (^X^R)
     hoge
 
-:_complete_debug (^X?):
+_complete_debug (^X?)
     hoge
 
-:_complete_help (^Xh):
+_complete_help (^Xh)
     hoge
 
-:_complete_help_generic:
+_complete_help_generic
     hoge
 
-:_complete_tag (^Xt):
+_complete_tag (^Xt)
     hoge
 
 
@@ -1322,13 +1322,13 @@ zsh-options
 ユーティリティ関数
 ==================
 
-:_all_labels [ -x ] [ -12VJ ] tag name descr [ command args ... ]:
+_all_labels [ -x ] [ -12VJ ] tag name descr [ command args ... ]
     hoge
 
-:_alternative [ -O name ] [ -C name ] spec ...:
+_alternative [ -O name ] [ -C name ] spec ...
     hoge
 
-:_arguments [ -nswWACRS ] [ -O name ] [ -M matchspec ] [ \: ] spec ...:
+_arguments [ -nswWACRS ] [ -O name ] [ -M matchspec ] [ \: ] spec ...
 
     この関数は UNIX 標準のオプションや引数の規約に従って、コマンドの引数に
     完全な指定を与えるために使います。後ろに続く書式は、オプションや引数の
@@ -1527,93 +1527,94 @@ zsh-options
 hoge
 
 
-:_cache_invalid cache_identifier:
+_cache_invalid cache_identifier
     hoge
 
-:_call_function return name [ args ... ]:
+_call_function return name [ args ... ]
     hoge
 
-:_call_program tag string:
+_call_program tag string
     hoge
 
-:_combination [ -s pattern ] tag style spec ... field opts ...:
+_combination [ -s pattern ] tag style spec ... field opts ...
     hoge
 
-:_describe [ -oO | -t tag ] descr name1 [ name2 ] opts ... -- ...:
+_describe [ -oO | -t tag ] descr name1 [ name2 ] opts ... -- ...
     hoge
 
-:_description [ -x ] [ -12VJ ] tag name descr [ spec ... ]:
+_description [ -x ] [ -12VJ ] tag name descr [ spec ... ]
     hoge
 
-:_dispatch context string ...:
+_dispatch context string ...
     hoge
 
-:_files:
+_files
     hoge
 
-:_gnu_generic:
+_gnu_generic
     hoge
 
-:_guard [ options ] pattern descr:
+_guard [ options ] pattern descr
     hoge
 
-:_message [ -r12 ] [ -VJ group ] descr:
-:_message -e [ tag ] descr:
+| _message [ -r12 ] [ -VJ group ] descr
+| _message -e [ tag ] descr
+
     hoge
 
-:_multi_parts sep array:
+_multi_parts sep array
     hoge
 
-:_next_label [ -x ] [ -12VJ ] tag name descr [ options ... ]:
+_next_label [ -x ] [ -12VJ ] tag name descr [ options ... ]
     hoge
 
-:_normal:
+_normal
     hoge
 
-:_options:
+_options
     hoge
 
-:_options_set and _options_unset:
+_options_set and _options_unset
     hoge
 
-:_parameters:
+_parameters
     hoge
 
-:_path_files:
+_path_files
     hoge
 
 :_pick_variant [ -b builtin-label ] [ -c command ] [ -r name ]
   label=pattern ... label [ args ... ]:
     hoge
 
-:_regex_arguments name spec ...:
+_regex_arguments name spec ...
     hoge
 
-:_regex_words tag description spec ...:
+_regex_words tag description spec ...
     hoge
 
-:_requested [ -x ] [ -12VJ ] tag [ name descr [ command args ...] ]:
+_requested [ -x ] [ -12VJ ] tag [ name descr [ command args ...] ]
     hoge
 
-:_retrieve_cache cache_identifier:
+_retrieve_cache cache_identifier
     hoge
 
-:_sep_parts:
+_sep_parts
     hoge
 
-:_setup tag [ group ]:
+_setup tag [ group ]
     hoge
 
-:_store_cache cache_identifier params ...:
+_store_cache cache_identifier params ...
     hoge
 
-:_tags [ [ -C name ] tags ... ]:
+_tags [ [ -C name ] tags ... ]
     hoge
 
-:_values [ -O name ] [ -s sep ] [ -S sep ] [ -wC ] desc spec ...:
+_values [ -O name ] [ -s sep ] [ -S sep ] [ -wC ] desc spec ...
     hoge
 
-:_wanted [ -x ] [ -C name ] [ -12VJ ] tag name descr command args ...:
+_wanted [ -x ] [ -C name ] [ -12VJ ] tag name descr command args ...
     hoge
 
 
@@ -1624,16 +1625,16 @@ hoge
 
 hoge
 
-:Base:
+Base
     hoge
 
-:Zsh:
+Zsh
     hoge
 
-:Unix:
+Unix
     hoge
 
-:X, AIX, BSD, ...:
+X, AIX, BSD, ...
     hoge
 
 
